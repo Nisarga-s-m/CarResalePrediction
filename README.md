@@ -1,2 +1,2 @@
-# HousePricePrediction
-Predicting House Price using Machine learning algorithms
+# CarResalePrediction
+Predicting Car resale using Machine learning algorithms
